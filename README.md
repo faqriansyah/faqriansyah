@@ -1,5 +1,5 @@
 # Introducing myself
-Im Faqriansyah, I want to be a programmer
+Im Faqriansyah, I want to be a profesional programmer
 
 # Tech
 Laravel, NodeJS, Backend
