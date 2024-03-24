@@ -12,7 +12,7 @@ I'm quite bored with PHP, I'll try moving to NodeJS
 upcoming :
 - Patria (https://example.com)
 
-#My mini project
+# My mini project
 upcoming...
 
 # Closing 
