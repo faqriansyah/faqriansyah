@@ -5,7 +5,7 @@ Im Faqriansyah, I want to be a profesional programmer
 Laravel, NodeJS, Backend
 
 # What am I studying now
-I'm quite bored with PHP, I'll try moving to NodeJS
+I'm quite bored with PHP, I'll try moving to NodeJS, I gave up, I went back to PHP
 
 # MyProject
 
