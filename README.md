@@ -9,8 +9,12 @@ I'm quite bored with PHP, I'll try moving to NodeJS, I gave up, I went back to P
 
 # MyProject
 
+- Onon Blog : http://ononblog.000webhostapp.com/index.php
+  A Simple blog website with worst security ever
+
 upcoming :
-- Patria (https://example.com)
+- Patria
+  A Science website dedicated for Indonesian people
 
 # My mini project
 upcoming...
