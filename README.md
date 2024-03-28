@@ -9,9 +9,9 @@ I'm quite bored with PHP, I'll try moving to NodeJS, I gave up, I went back to P
 
 # MyProject
 
+A Simple blog website with worst security ever
 - Onon Blog : http://ononblog.000webhostapp.com/index.php
-  A Simple blog website with worst security ever
-
+  
 upcoming :
 - Patria
   A Science website dedicated for Indonesian people
