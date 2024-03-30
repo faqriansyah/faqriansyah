@@ -23,6 +23,7 @@ upcoming...
 # My Code
 
 - PHP Handler : https://github.com/faqriansyah/php-handler
+- PHP  + Jquery, simple downvote and upvote : https://github.com/faqriansyah/php-upvote-downvote 
    
 
 # Contact me
